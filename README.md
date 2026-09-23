@@ -54,3 +54,12 @@ Apaixonado por tecnologia desde a infância e com foco dedicado em Ciberseguran�
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram do Rafael">
   </a>
 </div>
+
+---
+
+### Meu portfólio:
+<p align="center">
+  <a href="https://yon-coder.github.io/" target="_blank">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+</p>

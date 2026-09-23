@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Mastrocinque! 👋
 
-Sou apaixonado por tecnologia desde pequeno e obcecado por ciber segurança, atualmente curso Ciência da Computação
+Apaixonado por tecnologia desde a infância e com foco dedicado em Cibersegurança. Atualmente curso Ciência da Computação no Centro Universitário ENIAC e aprimoro minhas habilidades práticas em segurança da informação pelo programa Hackers do Bem. 
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -26,12 +26,21 @@ Sou apaixonado por tecnologia desde pequeno e obcecado por ciber segurança, atu
 
 ---
 
+### 🗣️ Idiomas
+
+- 🇧🇷 **Português:** Fluente / Nativo
+- 🇺🇸 **Inglês:** Fluente
+- 🇪🇸 **Espanhol:** Intermediário
+- 🇮🇹 **Italiano:** Intermediário
+- 🇷🇺 **Russo:** Básico
+
+---
+
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yon-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yon-coder&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yon-coder&theme=radical" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
